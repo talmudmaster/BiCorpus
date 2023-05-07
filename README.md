@@ -13,9 +13,7 @@ plaintalks论坛帖子：[BiCorpus是什么？](https://plaintalks.com/t/topic/5
 
 # **演示视频**
 
-<video width="640" height="360" controls>
-    <source src="https://plaintalks.com/uploads/default/original/2X/1/1c8cd1352107edcac128f07f37ca978e31cac4de.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/67557089/236703839-e7975bf7-cc62-4d49-b880-1dc0b4888249.mp4
 
 # **缘起**
 
